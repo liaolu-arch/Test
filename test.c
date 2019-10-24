@@ -10,7 +10,8 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("brach master\n""")
+	printf("brach master\n");
+	printf("Liaolu");
 	print("fearure_x");
 	printf("hello world");
     return 0;
